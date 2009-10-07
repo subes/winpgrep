@@ -1,0 +1,2 @@
+2009/10/07: WinPGrep 0.1.0
+- Works just like pgrep, though without any command line argument supported
